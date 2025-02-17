@@ -406,7 +406,7 @@
                 }
             ]
         },
-		{
+	{
             "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_C",
             "chanceToProduce": 1.0,
             "produces": [
@@ -418,7 +418,7 @@
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
                             "maxQuantityPerCycle": 100,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 10,
+                            "quantityPerDino": 3,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.1,
                             "alternateItems": [
